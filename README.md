@@ -27,5 +27,5 @@ Traders place trading orders via their brokerages. Every transaction contains th
 
 ## Tools Used: 
 1. Visio
-2. SQL Server
+2. MySQL
 3. MS Access
